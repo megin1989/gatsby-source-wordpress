@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{116:function(t,e){t.exports={data:{site:{siteMetadata:{title:"A sample site using gatsby-source-wordpress"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----75346740367255be5ef9.js.map
